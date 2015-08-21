@@ -1,0 +1,24 @@
+{
+  "name": "base-element",
+  "description": "Basic Web Service: Base element for easing Polymer custom element developement",
+  "version": "0.0.1",
+  "licence": "MIT",
+  "authors": [
+    "Ari Kekalainen <ari.kekalainen@gmail.com"
+  ],
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "release",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "type-definitions": "git://github.com/arikekalainen/bas-web-ser-typedefinitions.git#master"
+  },
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.0.0"
+  }
+}
